@@ -40,6 +40,6 @@ jobs:
         uses: actions/upload-artifact@v7
         with:
           name: debug-apk-${{ github.sha }}
-          path: app/build/outputs/apk/debug/*.apk
+          path: app/build/outputs/apk/pure/debug/*.apk
           retention-days: 7
           archive: false
