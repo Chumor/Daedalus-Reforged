@@ -1,15 +1,15 @@
 <resources>
-    <string name="app_name">Daedalus</string>
+    <string name="app_name">Daedalus Reforged</string>
     <string name="quick_toggle">Toggle</string>
 
-    <string name="notice_activated">iTXTech Daedalus is activated.</string>
+    <string name="notice_activated">Daedalus Reforged is activated.</string>
     <string name="notice_start_test">Testing specified DNS server…</string>
     <string name="notice_queries">DNS query times:</string>
-    <string name="notice_need_restart">Re-activate Daedalus to make the settings take effect.</string>
+    <string name="notice_need_restart">Re-activate Daedalus Reforged to make the settings take effect.</string>
     <string name="notice_start_download">Downloading rule, please wait …</string>
     <string name="notice_downloaded">Rule has been downloaded.</string>
     <string name="notice_download_failed">Download failed.</string>
-    <string name="notice_now_downloading">Daedalus is currently downloading rule, please wait.</string>
+    <string name="notice_now_downloading">Daedalus Reforged is currently downloading rule, please wait.</string>
     <string name="notice_fill_in_all">Please fill in all configuration items.</string>
     <string name="notice_delete_confirm_prompt">Are you sure you want to remove this configuration?</string>
     <string name="notice_after_stop">Please modify activated rules after stopping service.</string>
