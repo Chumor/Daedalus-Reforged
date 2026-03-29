@@ -7,7 +7,7 @@ android {
     compileSdkVersion 31
     buildToolsVersion "31.0.0"
     defaultConfig {
-        applicationId "org.itxtech.daedalus"
+        applicationId "org.itxtech.daedalus.reforged"
         minSdkVersion 21
         targetSdkVersion 31
         versionCode 21

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Daedalus</string>
+    <string name="app_name">Daedalus Reforged</string>
     <string name="quick_toggle">开关</string>
 
-    <string name="notice_activated">已启用 iTXTech Daedalus。</string>
+    <string name="notice_activated">已启用 Daedalus Reforged。</string>
     <string name="notice_start_test">正在测试指定的 DNS 服务器……</string>
     <string name="notice_queries">DNS 查询次数:</string>
-    <string name="notice_need_restart">重新启用 Daedalus 以应用设置。</string>
+    <string name="notice_need_restart">重新启用 Daedalus Reforged 以应用设置。</string>
     <string name="notice_start_download">正在下载规则，请稍等 ……</string>
     <string name="notice_downloaded">已下载规则。</string>
     <string name="notice_download_failed">规则下载失败。</string>
-    <string name="notice_now_downloading">Daedalus 当前正在下载规则，请稍等。</string>
+    <string name="notice_now_downloading">Daedalus Reforged 当前正在下载规则，请稍等。</string>
     <string name="notice_fill_in_all">请填写所有配置项。</string>
     <string name="notice_delete_confirm_prompt">您确定要删除此配置项？</string>
     <string name="notice_after_stop">请在服务停止后更改启用的规则。</string>

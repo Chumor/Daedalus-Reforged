@@ -26,7 +26,7 @@
                 android:selectAllOnFocus="true"
                 android:singleLine="true"
                 android:title="@string/settings_rule_download_url"/>
-        <org.itxtech.daedalus.widget.ClickPreference
+        <org.itxtech.daedalus.reforged.widget.ClickPreference
                 android:key="ruleSync"
                 android:title="@string/settings_rule_sync"/>
     </PreferenceCategory>
@@ -38,7 +38,7 @@
         <ListPreference
                 android:key="ruleImportBuildIn"
                 android:title="@string/settings_rule_import_built_in"/>
-        <org.itxtech.daedalus.widget.ClickPreference
+        <org.itxtech.daedalus.reforged.widget.ClickPreference
                 android:key="ruleImportExternal"
                 android:title="@string/settings_rule_import_external"/>
     </PreferenceCategory>
