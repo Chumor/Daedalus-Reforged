@@ -4,12 +4,12 @@ apply plugin: 'io.fabric'
 def gitCommit = 'git rev-parse --short HEAD'.execute([], project.rootDir).text.trim()
 
 android {
-    compileSdkVersion 31
-    buildToolsVersion "31.0.0"
+    namespace "org.itxtech.daedalus.reforged"
+    targetSdk 34
     defaultConfig {
         applicationId "org.itxtech.daedalus.reforged"
-        minSdkVersion 21
-        targetSdkVersion 31
+        minSdk 21
+        targetSdk 34
         versionCode 21
         versionName "1.15.0"
 
@@ -32,7 +32,6 @@ android {
         }
     }
     lintOptions {
-        checkReleaseBuilds false
         abortOnError false
     }
     applicationVariants.all { variant ->
@@ -41,8 +40,8 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
     }
 }
 
