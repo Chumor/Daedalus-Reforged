@@ -67,7 +67,7 @@ dependencies {
     implementation 'com.squareup.okhttp3:okhttp:4.9.3'
 
     //Analytics
-    googleReleaseImplementation 'com.google.firebase:firebase-core:21.0.0'
+    googleReleaseImplementation 'com.google.firebase:firebase-core:21.1.1'
     googleReleaseImplementation 'com.crashlytics.sdk.android:crashlytics:17.2.2'
 }
 
